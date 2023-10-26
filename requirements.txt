@@ -1,1 +1,4 @@
 django
+twilio==7.12.1
+gunicorn
+psycopg2
